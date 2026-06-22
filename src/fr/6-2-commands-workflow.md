@@ -271,17 +271,6 @@ avant d'invoquer directement le compilateur `catala`.
 </pre>
 ```
 
-## `clerk exceptions`
-
-Affiche l'arbre des exceptions pour les définitions d'une variable particulière
-dans un scope. Utile pour comprendre et déboguer des hiérarchies d'exceptions complexes.
-
-```admonish info collapsible=true title="clerk exceptions &dash;&dash;help"
-<pre>
-<!-- cmdrun clerk exceptions --help=plain -->
-</pre>
-```
-
 ## `clerk json-schema`
 
 Affiche le schéma JSON des objets d'entrée et de sortie d'un scope donné.

@@ -273,16 +273,6 @@ compiler directly.
 </pre>
 ```
 
-## `clerk exceptions`
-
-Prints the exception tree for the definitions of a particular variable in a scope.
-Useful for understanding and debugging complex exception hierarchies.
-
-```admonish info collapsible=true title="clerk exceptions &dash;&dash;help"
-<pre>
-<!-- cmdrun clerk exceptions --help=plain -->
-</pre>
-```
 
 ## `clerk json-schema`
 
